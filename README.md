@@ -16,4 +16,4 @@ This is My Magic Trick. You will start by putting a number between 0 and 15 in y
 
 For Test Mode the Yes and nos on Card A  through Card D will already be populated and you will have to guess the number between 0-15 based on the yes and no’s.
 
-The Flow Chart: <img src="FlowChart.jpg" height = "400" width ="400">
+The Flow Chart: <img src="C++ Final-Page-1.jpg" height = "400" width ="400">
